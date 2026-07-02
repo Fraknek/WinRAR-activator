@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Fraknek/WinRAR-activator/main/assets/icon.png" width="100" alt="WinRAR Icon">
+  <img src="https://raw.githubusercontent.com/Fraknek/WinRAR-activator/icon.ico" width="100" alt="WinRAR Icon">
   <br>
   WinRAR Activator
 </h1>
